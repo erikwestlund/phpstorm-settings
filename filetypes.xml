@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="vue" type="ECMAScript 6" />
       <mapping pattern="url" type="PLAIN_TEXT" />
       <mapping pattern=".env-production" type="PLAIN_TEXT" />
       <mapping pattern=".env-worker-server" type="PLAIN_TEXT" />
