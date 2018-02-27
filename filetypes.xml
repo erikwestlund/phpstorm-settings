@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="proc" type="JavaScript" />
+      <mapping pattern="JackRabbitSource.php" type="PHP" />
       <mapping pattern="url" type="PLAIN_TEXT" />
       <mapping pattern="ShoeReviewsResponse.php" type="PLAIN_TEXT" />
       <mapping pattern="RunningWarehouseProductFactory.php" type="PLAIN_TEXT" />
