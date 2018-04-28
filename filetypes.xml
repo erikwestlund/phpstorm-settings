@@ -12,6 +12,7 @@
       <mapping pattern="url" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="partial" type="PLAIN_TEXT" />
+      <mapping ext="settings" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
