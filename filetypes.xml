@@ -4,14 +4,18 @@
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping ext="proc" type="JavaScript" />
       <mapping pattern="JackRabbitSource.php" type="PHP" />
-      <mapping pattern="start-app" type="PLAIN_TEXT" />
-      <mapping pattern="ShoeReviewsResponse.php" type="PLAIN_TEXT" />
-      <mapping pattern="RunningWarehouseProductFactory.php" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env-production" type="PLAIN_TEXT" />
+      <mapping pattern="build" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".env-worker-server" type="PLAIN_TEXT" />
       <mapping pattern="url" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="RunningWarehouseProductFactory.php" type="PLAIN_TEXT" />
+      <mapping pattern="ShoeReviewsResponse.php" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="develop" type="PLAIN_TEXT" />
+      <mapping pattern="start-app" type="PLAIN_TEXT" />
+      <mapping pattern="start-container" type="PLAIN_TEXT" />
       <mapping ext="partial" type="PLAIN_TEXT" />
       <mapping ext="settings" type="PLAIN_TEXT" />
     </extensionMap>
