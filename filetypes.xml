@@ -11,6 +11,7 @@
       <mapping pattern="ShoeReviewsResponse.php" type="PLAIN_TEXT" />
       <mapping pattern="speedtest" type="PLAIN_TEXT" />
       <mapping ext="partial" type="PLAIN_TEXT" />
+      <mapping pattern="SelectShoeSizeSelectBox" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
