@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="proc" type="JavaScript" />
       <mapping pattern=".env-production" type="PLAIN_TEXT" />
+      <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".env-worker-server" type="PLAIN_TEXT" />
       <mapping pattern="url" type="PLAIN_TEXT" />
