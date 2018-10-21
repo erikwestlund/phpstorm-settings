@@ -1,0 +1,6 @@
+<application>
+  <component name="KeymapToPDF">
+    <option name="keymapName" value="Default copy" />
+    <option name="outputPath" value="$USER_HOME$" />
+  </component>
+</application>
