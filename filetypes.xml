@@ -9,8 +9,10 @@
       <mapping pattern="url" type="PLAIN_TEXT" />
       <mapping pattern=".env.coronado" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="nginx-default" type="PLAIN_TEXT" />
       <mapping pattern="ShoeReviewsResponse.php" type="PLAIN_TEXT" />
       <mapping pattern="speedtest" type="PLAIN_TEXT" />
+      <mapping pattern="develop" type="PLAIN_TEXT" />
       <mapping ext="partial" type="PLAIN_TEXT" />
       <mapping pattern="SelectShoeSizeSelectBox" type="Vue.js" />
     </extensionMap>
