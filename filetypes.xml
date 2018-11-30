@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="proc" type="JavaScript" />
+      <mapping pattern="etc-hosts" type="PLAIN_TEXT" />
       <mapping pattern=".env-production" type="PLAIN_TEXT" />
       <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
@@ -13,6 +14,7 @@
       <mapping pattern="ShoeReviewsResponse.php" type="PLAIN_TEXT" />
       <mapping pattern="speedtest" type="PLAIN_TEXT" />
       <mapping pattern="develop" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="partial" type="PLAIN_TEXT" />
       <mapping pattern="SelectShoeSizeSelectBox" type="Vue.js" />
     </extensionMap>
